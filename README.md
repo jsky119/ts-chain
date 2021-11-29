@@ -8,6 +8,10 @@ Learning TypeScript
 npm install typescript
 ```
 
+```
+npm install tsc-watch --dev
+```
+
 ### Compile
 
 ```sh
